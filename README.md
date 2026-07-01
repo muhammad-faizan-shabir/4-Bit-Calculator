@@ -1,6 +1,7 @@
-# 4-Bit Digital Calculator
+# 4-Bit Calculator
+The project was part of the ‘Digital Logic Design’ course.
 
-A basic **4-bit digital calculator** designed using **LogicWorks**. The project demonstrates the implementation of digital logic concepts by constructing a functional calculator from digital components.
+A basic **4-bit calculator** designed using **LogicWorks** software. The project demonstrates the implementation of digital logic concepts by constructing a functional calculator from digital components.
 
 ## Features
 
@@ -11,12 +12,11 @@ A basic **4-bit digital calculator** designed using **LogicWorks**. The project 
 
 ## Technologies Used
 
-- LogicWorks
-- Digital Logic Design
+- LogicWorks Software
 
 ## Components Used
 
-- AND, OR, NOT, XOR Gates
+- AND, OR, NOT Gates
 - Multiplexers
 - Demultiplexers
 - Adders
@@ -27,33 +27,23 @@ A basic **4-bit digital calculator** designed using **LogicWorks**. The project 
 
 ```text
 .
-├── FourBitCalculator.cct
+├── 4BitCalculator.cct
+├── DLD Project.docx
 └── README.md
 ```
 
+## Project Documentation
+
+The repository includes a project document:
+
+**`DLD Project.docx`**
+
+This document contains the project requirements, design specifications, and other supporting information used during the development of the calculator.
+
 ## How to Run
 
-1. Install LogicWorks.
-2. Open `FourBitCalculator.cct`.
+1. Install LogicWorks Software.
+2. Open `4BitCalculator.cct`.
 3. Run the simulation.
 4. Change the input switches to enter 4-bit values.
 5. Observe the outputs.
-
-## Learning Objectives
-
-- Digital Logic Design
-- Combinational and Sequential Circuits
-- Arithmetic Circuit Design
-- Hardware Simulation
-
-## Screenshots
-
-Add screenshots of the circuit here.
-
-## Author
-
-**Muhammad Faizan Shabir**
-
----
-
-This project was developed for educational purposes using LogicWorks.
